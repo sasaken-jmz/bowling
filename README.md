@@ -6,7 +6,7 @@ Bowling_Score_Simulation_Py is a tutorial of bowling game simulation with Python
 
 We can get a score table of bowling game simulation result as showed below.
 
-<https://github.com/Sasaken-coder/bowling/tree/master/sample/score.html>
+![](https://github.com/Sasaken-coder/bowling/tree/master/sample/score.png)
 
 # Features
 

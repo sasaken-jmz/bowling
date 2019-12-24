@@ -10,6 +10,7 @@ We can get a score table of bowling game simulation result as showed below.
 
 # Features
 
+Bowling_Score_Simulation_Py used "random" only, which is one of the Python Standard Library only.
 
 #  Dependency
 
@@ -22,8 +23,8 @@ You have only to install Python3.
 # Usage
 
 ```bash
-git clone https://github.com/hoge/~
-cd examples
+git clone https://github.com/Sasaken-coder/bowling.git
+cd bowling
 python3 bowling.py
 ```
 

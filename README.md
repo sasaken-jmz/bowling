@@ -10,7 +10,8 @@ We can get a score table of bowling game simulation result as showed below.
 
 # Features
 
-Bowling_Score_Simulation_Py used "random" only, which is one of the Python Standard Library only.
+Bowling_Score_Simulation_Py gives us a table which shows the result of a bowling game simulation　with html file.
+The first row shows the number of Frame, the second row shows the number of fallen pins, and third row shows score.
 
 #  Dependency
 
